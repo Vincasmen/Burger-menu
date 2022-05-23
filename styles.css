@@ -1,0 +1,29 @@
+body {
+  margin: 0rem;
+  padding: 0rem;
+  overflow: hidden;
+}
+
+.hidden {
+  display: none;
+}
+
+.ul {
+  list-style: none;
+  font-size: large;
+  font-weight: bold;
+  padding: 1rem;
+  float: right;
+  margin: 0rem;
+}
+
+ul li {
+  display: inline-block;
+  width: 6.1rem;
+}
+
+.fas {
+  float: right;
+  margin: 0.8rem;
+  cursor: pointer;
+}
